@@ -1,2 +1,3 @@
 # Parent_Child_Communication_In_Angular
-Parent to child communication in Angular
+Checkout in the Master branch
+Parent-to-child communication in Angular
